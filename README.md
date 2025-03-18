@@ -1,0 +1,2 @@
+Código básico de de automação de inserção de dados, dados que você já tem um sistema que realiza a inserção de dados em um excel, dependendo apenas da digitação.
+O código tem explicação de como obter a coordenada dos botões na tela, após obter tais coordenadas, inserir oque deseja ser escrito nos campos, o mouse irá até a coordenada e a partir dele será inserido o texto desejado, texto pode ser editado no código
